@@ -1,2 +1,2 @@
-var text = "hello world";
-alert(text);
+var word = "hello world";
+alert(word);
