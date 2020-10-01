@@ -1,4 +1,4 @@
-# hacktober-fest
+# Hacktober-Fest
 ## Make your first pull request
 ### Steps for making the pull requests
 #### 1. Clone the repository.
@@ -7,4 +7,3 @@
 #### 4. Commit.
 #### 5. Create a PR.
 #### 6. Relax.
-
