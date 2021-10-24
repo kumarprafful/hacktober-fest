@@ -7,6 +7,7 @@ d = 256
 # pat  -> pattern
 # txt  -> text
 # q    -> A prime number
+# test -> variable for test
  
 def search(pat, txt, q):
     M = len(pat)
