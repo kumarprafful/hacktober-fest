@@ -6,8 +6,8 @@
     The device state message has many possible values, but this program cares
     about only three: ON, OFF, and ERR.
 
-    Your program will parse the given log file and print out a report giving
-    how long the device was ON and the timestamp of any ERR conditions.
+    Your program will parse the given log file and print out a reports giving
+    how long the device was ON and the timestamps of any ERR conditions.
 """
 import datetime
 import sys
